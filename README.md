@@ -1,6 +1,6 @@
 # Курс "Телекоммуникационные технологии"
 ### Студент 35530901/90201 Бакин Даниил
-Лабораторные работы:<br>
+Лабораторные работы ([source](https://github.com/AllenDowney/ThinkDSP)):<br>
  - [x] 1. [Звуки и сигналы](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap01.ipynb)
  - [ ] 2. Гармоники
  - [ ] 3. Апереодические сигналы
