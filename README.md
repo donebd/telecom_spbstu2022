@@ -3,7 +3,7 @@
 Лабораторные работы ([source](https://github.com/AllenDowney/ThinkDSP)):<br>
  - [x] 1. [Звуки и сигналы](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap01.ipynb)
  - [x] 2. [Гармоники](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap02.ipynb)
- - [ ] 3. Апереодические сигналы
+ - [x] 3. [Апереодические сигналы](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap03.ipynb)
  - [ ] 4. Шум
  - [ ] 5. Автокорреляция
  - [ ] 6. Дискретное косинусное преобразование
