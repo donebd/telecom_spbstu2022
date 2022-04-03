@@ -4,7 +4,7 @@
  - [x] 1. [Звуки и сигналы](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap01.ipynb)
  - [x] 2. [Гармоники](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap02.ipynb)
  - [x] 3. [Апереодические сигналы](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap03.ipynb)
- - [ ] 4. Шум
+ - [x] 4. [Шум](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap04.ipynb)_
  - [ ] 5. Автокорреляция
  - [ ] 6. Дискретное косинусное преобразование
  - [ ] 7. Дискретное преобразование Фурье
