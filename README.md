@@ -6,7 +6,7 @@
  - [x] 3. [Апереодические сигналы](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap03.ipynb)
  - [x] 4. [Шум](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap04.ipynb)
  - [x] 5. [Автокорреляция](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap05.ipynb)
- - [ ] 6. Дискретное косинусное преобразование
+ - [x] 6. [Дискретное косинусное преобразование](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap06.ipynb)
  - [ ] 7. Дискретное преобразование Фурье
  - [ ] 8. Фильтрация и свертка
  - [ ] 9. Дифференцирование и интегрирование
