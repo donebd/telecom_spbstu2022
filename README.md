@@ -8,7 +8,7 @@
  - [x] 5. [Автокорреляция](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap05.ipynb)
  - [x] 6. [Дискретное косинусное преобразование](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap06.ipynb)
  - [x] 7. [Дискретное преобразование Фурье](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap07.ipynb)
- - [ ] 8. Фильтрация и свертка
+ - [x] 8. [Фильтрация и свертка](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap08.ipynb)
  - [ ] 9. Дифференцирование и интегрирование
  - [ ] 10. Линейные стационарные системы
  - [ ] 11. Модуляция и выборка (квантование)
