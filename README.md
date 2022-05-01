@@ -10,7 +10,7 @@
  - [x] 7. [Дискретное преобразование Фурье](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap07.ipynb)
  - [x] 8. [Фильтрация и свертка](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap08.ipynb)
  - [x] 9. [Дифференцирование и интегрирование](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap09.ipynb)
- - [ ] 10. Линейные стационарные системы
+ - [x] 10. [Линейные стационарные системы](https://colab.research.google.com/github/donebd/telecom_spbstu2022/blob/main/src/chap10.ipynb)
  - [ ] 11. Модуляция и выборка (квантование)
  - [ ] 12. RadioGNU
 
